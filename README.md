@@ -3,9 +3,9 @@ Hello! I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/ling
 Before Attending MSU, I received my MA in Linguistics at Tsinghua University, where I was advised by [Xiaolu Yang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1119.htm). Before that, I did undergrad at Soochow University, where I worked with [Aijun Huang](https://sfl.sjtu.edu.cn/En/Data/View/4662).
 
 ## News!
-- I presented at [WCCFL 42](https://www.wccfl42.com/) (April 12-14, The University of California, Berkeley), poster titled "Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults".
+- I presented at [WCCFL 42](https://www.wccfl42.com/) (April 12-14, The University of California, Berkeley), poster titled "Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults". Download the poster [here](http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf)!
 - ![Me and my poster at WCCFL](/assets/img/wccfl.jpg)
-- I’m presenting at [CLS 60](http://chicagolinguisticsociety.org/) (April 26–28, The University of Chicago), poster titled "Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults".
+- I’m presenting at [CLS 60](http://chicagolinguisticsociety.org/) (April 26–28, The University of Chicago), poster titled "Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults". Download the poster [here](http://jingyingx.github.io/CLD_Poster_Jingying_Xu.pdf)!
 - I'm presenting at [SALT 34](https://saltconf.github.io/salt34/) (May 28-30, The University of Rochester).
 - I'm presenting at [GALA 16](https://galalisbon2024.fcsh.unl.pt/) (September 12-14, The NOVA University of Lisbon).
   
@@ -13,8 +13,8 @@ Before Attending MSU, I received my MA in Linguistics at Tsinghua University, wh
 ### 2024
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Children do not have different verb representations from adults: Non-culminating incremental theme predicates in Mandarin-speaking children. Poster presented at the 16th Generative Approaches to Language Acquisition (GALA 16). The NOVA University of Lisbon, Lisbon.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Poster presented at the 34th Semantics and Linguistic Theory (SALT 34), University of Rochester, Rochester.
-- **Xu, Jingying**, & Cristina Schmitt. (2024). [Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults. Poster presented at the 60th Annual Meeting of the Chicago Linguistic Society (CLS 60), University of Chicago, Chicago. Download the poster: 'http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf'
-- **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Poster presented at the 42nd West Coast Conference on Formal Linguistics (WCCFL 42), Berkeley.
+- **Xu, Jingying**, & Cristina Schmitt. (2024). [Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults. [Poster presented at the 60th Annual Meeting of the Chicago Linguistic Society (CLS 60)]((http://jingyingx.github.io/CLD_Poster_Jingying_Xu.pdf), University of Chicago, Chicago. 
+- **Xu, Jingying**, & Cristina Schmitt. (2024). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf). Poster presented at the 42nd West Coast Conference on Formal Linguistics (WCCFL 42), Berkeley.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). How can Mandarin children and adults eat three cookies without ever finishing them? Talk presented at the 48th annual Penn Linguistics Conference (PLC 48), Philadelphia.
 ### 2023
 - **Xu, Jingying** (2023). How can you eat three cookies without ever finishing them?  Talk presented at Careers, Alumni and Linguistics at Michigan State (CALMS) 2023, East Lansing.
