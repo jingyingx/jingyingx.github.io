@@ -1,4 +1,4 @@
-I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. I use experimental and computational approaches to study how children acquire their first language. My advisor is Cristina Schmitt. Alan Munn, Brian Buccola, and Alan Hezao Ke are also on my committee. 
+Hello! I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). [Alan Munn](https://amunn.github.io/), [Brian Buccola](https://brianbuccola.com/), and [Alan Hezao Ke](https://hezaoke.weebly.com/) are also on my committee. 
 
 ## Education
 - Ph.D., Linguistics | Michigan State University (_2020-Present_)								       		
@@ -7,7 +7,7 @@ I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/linguistics
   
 ## Presentations
 ### 2024
-- **Xu, Jingying**, & Cristina Schmitt. (2024). Children do not have different verb representations from adults: Non-culminating incremental theme predicates in Mandarin-speaking children. Poster presented at the 16th Generative Approaches to Language Acquisition (GALA16). the NOVA University of Lisbon, Lisbon.
+- **Xu, Jingying**, & Cristina Schmitt. (2024). Children do not have different verb representations from adults: Non-culminating incremental theme predicates in Mandarin-speaking children. Poster presented at the 16th Generative Approaches to Language Acquisition (GALA16). The NOVA University of Lisbon, Lisbon.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Poster presented at the 34th Semantics and Linguistic Theory (SALT 34), University of Rochester, Rochester.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults. Poster presented at the 60th Annual Meeting of the Chicago Linguistic Society (CLS 60), University of Chicago, Chicago.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Poster presented at the 42nd West Coast Conference on Formal Linguistics (WCCFL 42), Berkeley.
