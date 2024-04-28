@@ -1,4 +1,4 @@
-I'm a Linguistics PhD student at Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. My adviser is Cristina Schmitt.
+I'm a Linguistics PhD student at Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. My advisor is Cristina Schmitt.
 
 ## Education
 - Ph.D., Linguistics | Michigan State University (_2020-Present_)								       		
