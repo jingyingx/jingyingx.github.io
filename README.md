@@ -4,7 +4,7 @@ Before Attending MSU, I received my MA in Linguistics at Tsinghua University, wh
 
 ## News!
 - I presented at [WCCFL 42](https://www.wccfl42.com/) (April 12-14, The University of California, Berkeley), poster titled "Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults".
-- ![Me and my poster at WCCFL](/assets/img/wccfl.HEIC)
+- ![Me and my poster at WCCFL](/assets/img/wccfl.jpg)
 - I’m presenting at [CLS 60](http://chicagolinguisticsociety.org/) (April 26–28, The University of Chicago), poster titled "Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults".
 - I'm presenting at [SALT 34](https://saltconf.github.io/salt34/) (May 28-30, The University of Rochester).
 - I'm presenting at [GALA 16](https://galalisbon2024.fcsh.unl.pt/) (September 12-14, The NOVA University of Lisbon).
