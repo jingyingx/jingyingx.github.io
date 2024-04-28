@@ -18,7 +18,7 @@ Before Attending MSU, I received my MA in Linguistics at Tsinghua University, wh
 - **Xu, Jingying**, & Cristina Schmitt. (2024). How can Mandarin children and adults eat three cookies without ever finishing them? Talk presented at the 48th annual Penn Linguistics Conference (PLC 48), Philadelphia.
 ### 2023
 - **Xu, Jingying** (2023). How can you eat three cookies without ever finishing them?  Talk presented at Careers, Alumni and Linguistics at Michigan State (CALMS) 2023, East Lansing.
-- Ke, Alan Hezao, **Xu, Jingying**, & Ding, Lijun. (2023). The Clustering Approach: An Input-Driven Approach to Parameter Setting. Poster presented at the 48th Annual Boston University Conference on Language Development (BUCLD 48), Boston.
+- Ke, Alan Hezao, **Xu, Jingying**, & Ding, Lijun. (2023). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLD_48_Poster_The_clustering_approach_Ke_Xu_Ding.pdf). Poster presented at the 48th Annual Boston University Conference on Language Development (BUCLD 48), Boston.
 - **Xu, Jingying**, & Cristina Schmitt. (2023). Tracing the Trajectory of the Telicity Calculus in Mandarin-Speaking Children. Poster presented at CreteLing 2023 Conference, Rethymnon, Crete.
 ### Before 2023
 - **Xu, Jingying**. (2022). Telicity in Mandarin Preschoolers. Talk presented at the Graduate Linguistics Expo at Michigan State (GLEAMS) 2022, East Lansing.
@@ -29,7 +29,7 @@ Before Attending MSU, I received my MA in Linguistics at Tsinghua University, wh
 - **Xu, Jingying**, & Huang, Aijun. (2015). Development of Pragmatic Knowledge in L2 Learners of Mandarin Chinese. Talk presented at the 4th Syntax and Semantics in China (SSiC 2015), Xi’an.
 
 ## Publications
-- Ke, Alan Hezao, **Xu, Jingying**, & Ding, Lijun (in press). The Clustering Approach: An Input-Driven Approach to Parameter Setting. Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
+- Ke, Alan Hezao, **Xu, Jingying**, & Ding, Lijun (in press). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
 - Huang, Aijun, & **Xu, Jingying**. (2021). Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese). Linguistic Research.
 -**Xu, Jingying**, Yang, Xiaolu, & Shi, Rushen. (2021). [Complement control in early child grammar: A study of Mandarin-speaking two-year-olds’ comprehension](https://www.lingref.com/bucld/45/BUCLD45-58.pdf). In Daniell Dionne & Lee-Ann Vidal Covas (Eds.), Proceedings of the 45th Annual Boston University Conference on Language Development (BUCLD 45). Somerville, MA: Cascadilla Press.
 
