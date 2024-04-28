@@ -3,8 +3,8 @@ Hello! I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/ling
 Before Attending MSU, I received my MA in Linguistics at Tsinghua University, where I was advised by [Xiaolu Yang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1119.htm). Before that, I did undergrad at Soochow University, where I worked with [Aijun Huang](https://sfl.sjtu.edu.cn/En/Data/View/4662).
 
 ## News!
-- I presented at [WCCFL 42](https://www.wccfl42.com/) (April 12-14, The University of California, Berkeley), poster titled "Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults". Download the poster [here](http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf)!
-- ![Me and my poster at WCCFL](/assets/img/wccfl.jpg)
+- I did a poster presentation titled "Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults" at [WCCFL 42](https://www.wccfl42.com/) during April 12-14 at the University of California, Berkeley. Download the poster [here](http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf) if you are interested :)
+![Me and my poster at WCCFL](/assets/img/wccfl.jpg)
 - I’m presenting at [CLS 60](http://chicagolinguisticsociety.org/) (April 26–28, The University of Chicago), poster titled "Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults". Download the poster [here](http://jingyingx.github.io/CLD_Poster_Jingying_Xu.pdf)!
 - I'm presenting at [SALT 34](https://saltconf.github.io/salt34/) (May 28-30, The University of Rochester).
 - I'm presenting at [GALA 16](https://galalisbon2024.fcsh.unl.pt/) (September 12-14, The NOVA University of Lisbon).
