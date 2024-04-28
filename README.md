@@ -1,4 +1,4 @@
-I'm a PhD student in the [Linguistics Program] (https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. I use experimental and computational approaches to study how children acquire their first language. My advisor is Cristina Schmitt. Alan Munn, Brian Buccola, and Alan Hezao Ke are also on my committee. 
+I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. I use experimental and computational approaches to study how children acquire their first language. My advisor is Cristina Schmitt. Alan Munn, Brian Buccola, and Alan Hezao Ke are also on my committee. 
 
 ## Education
 - Ph.D., Linguistics | Michigan State University (_2020-Present_)								       		
