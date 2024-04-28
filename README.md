@@ -34,6 +34,6 @@ You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingx
 ## Publications
 - Ke, Alan Hezao, **Xu, Jingying**, & Ding, Lijun (in press). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
 - Huang, Aijun, & **Xu, Jingying**. (2021). Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese). Linguistic Research.
--**Xu, Jingying**, Yang, Xiaolu, & Shi, Rushen. (2021). [Complement control in early child grammar: A study of Mandarin-speaking two-year-olds’ comprehension](https://www.lingref.com/bucld/45/BUCLD45-58.pdf). In Daniell Dionne & Lee-Ann Vidal Covas (Eds.), Proceedings of the 45th Annual Boston University Conference on Language Development (BUCLD 45). Somerville, MA: Cascadilla Press.
+- **Xu, Jingying**, Yang, Xiaolu, & Shi, Rushen. (2021). [Complement control in early child grammar: A study of Mandarin-speaking two-year-olds’ comprehension](https://www.lingref.com/bucld/45/BUCLD45-58.pdf). In Daniell Dionne & Lee-Ann Vidal Covas (Eds.), Proceedings of the 45th Annual Boston University Conference on Language Development (BUCLD 45). Somerville, MA: Cascadilla Press.
 
 
