@@ -17,10 +17,12 @@ You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingx
 - **Xu, Jingying**, & Cristina Schmitt. (2024). [Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults. [Poster](http://jingyingx.github.io/CLS_Poster_Jingying_Xu.pdf) presented at the 60th Annual Meeting of the Chicago Linguistic Society (CLS 60), University of Chicago, Chicago. 
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. [Poster](http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf) presented at the 42nd West Coast Conference on Formal Linguistics (WCCFL 42), Berkeley.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). How can Mandarin children and adults eat three cookies without ever finishing them? Talk presented at the 48th annual Penn Linguistics Conference (PLC 48), Philadelphia.
+
 ### 2023
 - **Xu, Jingying** (2023). How can you eat three cookies without ever finishing them?  Talk presented at Careers, Alumni and Linguistics at Michigan State (CALMS) 2023, East Lansing.
 - Ke, Alan Hezao, **Xu, Jingying**, & Ding, Lijun. (2023). The Clustering Approach: An Input-Driven Approach to Parameter Setting. [Poster](http://jingyingx.github.io/BUCLD_48_Poster_The_clustering_approach_Ke_Xu_Ding.pdf) presented at the 48th Annual Boston University Conference on Language Development (BUCLD 48), Boston.
 - **Xu, Jingying**, & Cristina Schmitt. (2023). Tracing the Trajectory of the Telicity Calculus in Mandarin-Speaking Children. Poster presented at CreteLing 2023 Conference, Rethymnon, Crete.
+  
 ### Before 2023
 - **Xu, Jingying**. (2022). Telicity in Mandarin Preschoolers. Talk presented at the Graduate Linguistics Expo at Michigan State (GLEAMS) 2022, East Lansing.
 - Huang, Aijun, Wang, Qian, **Xu, Jingying**, Chang, Hui, Zeng Li & Mineharu, Nakayama. (2021). The Acquisition of Chinese Negative Wh-Pronoun Constructions by Korean Speakers. Talk presented at the 9th International Conference on Formal Linguistics (ICFL 9), Shanghai.
