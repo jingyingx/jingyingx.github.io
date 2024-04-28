@@ -2,6 +2,8 @@ Hello! I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/ling
 
 Before Attending MSU, I received my MA in Linguistics at Tsinghua University, where I was advised by [Xiaolu Yang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1119.htm). Before that, I did undergrad at Soochow University, where I worked with [Aijun Huang](https://sfl.sjtu.edu.cn/En/Data/View/4662).
 
+You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu-cv_april_2024).
+
 ## News!
 - I did a poster presentation titled "Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults" at [WCCFL 42](https://www.wccfl42.com/) during April 12-14 at the University of California, Berkeley. Download the poster [here](http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf) if you are interested :)
 - I’m presenting at [CLS 60](http://chicagolinguisticsociety.org/) (April 26–28, The University of Chicago), poster titled "Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults". Download the poster [here](http://jingyingx.github.io/CLS_Poster_Jingying_Xu.pdf) if you are interested :)
