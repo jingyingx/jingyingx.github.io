@@ -1,7 +1,7 @@
-Hello! I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). [Alan Munn](https://amunn.github.io/), [Alan Hezao Ke](https://hezaoke.weebly.com/), and [Brian Buccola](https://brianbuccola.com/) are also on my committee. I'm part of the [MSU Language Acquisition Lab](https://www.msuacquisition.org/index.html), Semantics-Pragmatics Lab, and [Minimalism, Learning and 
-Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
+Hello! I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). [Alan Munn](https://amunn.github.io/), [Alan Hezao Ke](https://hezaoke.weebly.com/), and [Brian Buccola](https://brianbuccola.com/) are also on my committee. 
 
-Before Attending MSU, I received my MA in Linguistics at Tsinghua University, where I was advised by [Xiaolu Yang](https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1119.htm). Before that, I did undergrad at Soochow University, where I worked with [Aijun Huang](https://sfl.sjtu.edu.cn/En/Data/View/4662).
+I'm part of the [MSU Language Acquisition Lab](https://www.msuacquisition.org/index.html), Semantics-Pragmatics Lab, and [Minimalism, Learning and 
+Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 
 You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu_cv_april_2024.pdf).
 
