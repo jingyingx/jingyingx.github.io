@@ -31,7 +31,7 @@ You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingx
 
 ## Publications
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
-- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (in press). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
 - Huang, Aijun, & **Jingying Xu**. (2021). Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese). Linguistic Research.
 - **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2021). [Complement control in early child grammar: A study of Mandarin-speaking two-year-olds’ comprehension](https://www.lingref.com/bucld/45/BUCLD45-58.pdf). In Daniell Dionne & Lee-Ann Vidal Covas (Eds.), Proceedings of the 45th Annual Boston University Conference on Language Development (BUCLD 45). Somerville, MA: Cascadilla Press.
 
