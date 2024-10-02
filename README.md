@@ -6,14 +6,14 @@ Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu_cv_april_2024.pdf).
 
 ## News!
-- I'm presenting at [GALA 16](https://galalisbon2024.fcsh.unl.pt/) (September 12-14, The NOVA University of Lisbon).
+- I did a poster presentation at [GALA 16](https://galalisbon2024.fcsh.unl.pt/) (September 12-14, The NOVA University of Lisbon).
   
 ## Presentations
 ### 2024
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Children do not have different verb representations from adults: Non-culminating incremental theme predicates in Mandarin-speaking children. Poster presented at the 16th Generative Approaches to Language Acquisition (GALA 16). The NOVA University of Lisbon, Lisbon.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Poster presented at the 34th Semantics and Linguistic Theory (SALT 34), University of Rochester, Rochester.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Non-culmination in telic incremental theme predicates: An experimental study of Mandarin children and adults. [Poster](http://jingyingx.github.io/CLS_Poster_Jingying_Xu.pdf) presented at the 60th Annual Meeting of the Chicago Linguistic Society (CLS 60), University of Chicago, Chicago. 
-- **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. [Poster](http://jingyingx.github.io/WCCFL_Poster_Jingying_Xu.pdf) presented at the 42nd West Coast Conference on Formal Linguistics (WCCFL 42), Berkeley.
+- **Xu, Jingying**, & Cristina Schmitt. (2024). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Poster presented at the 42nd West Coast Conference on Formal Linguistics (WCCFL 42), Berkeley.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). How can Mandarin children and adults eat three cookies without ever finishing them? Talk presented at the 48th annual Penn Linguistics Conference (PLC 48), Philadelphia.
 
 ### 2023
