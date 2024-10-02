@@ -30,6 +30,7 @@ You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingx
 - **Xu, Jingying**, & Aijun Huang. (2015). Development of Pragmatic Knowledge in L2 Learners of Mandarin Chinese. Talk presented at the 4th Syntax and Semantics in China (SSiC 2015), Xi’an.
 
 ## Publications
+- **Xu, Jingying**, & Cristina Schmitt. (to appear). Grammatical versus pragmatic accounts for non-culmination in Mandarin: An experimental study. Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults. Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
 - Huang, Aijun, & **Jingying Xu**. (2021). Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese). Linguistic Research.
