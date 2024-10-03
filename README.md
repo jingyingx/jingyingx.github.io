@@ -6,9 +6,9 @@ Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu_cv_april_2024.pdf).
 
 ## News!
-Fresh proceedings papers: 
+Fresh CLS proceedings paper: 
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
-- **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
+
   
 ## Presentations
 ### 2024
