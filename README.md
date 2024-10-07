@@ -32,6 +32,7 @@ Fresh CLS proceedings paper:
 - **Xu, Jingying**, & Aijun Huang. (2015). Development of Pragmatic Knowledge in L2 Learners of Mandarin Chinese. Talk presented at the 4th Syntax and Semantics in China (SSiC 2015), Xi’an.
 
 ## Publications
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (under review). Modeling the learning of parametric variation: Implementing an input-driven hierarchical approach.
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
