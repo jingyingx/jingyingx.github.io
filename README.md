@@ -3,7 +3,7 @@ Hello! I'm a PhD student in the [Linguistics Program](https://lilac.msu.edu/ling
 I'm part of the [MSU Language Acquisition Lab](https://www.msuacquisition.org/index.html), Semantics-Pragmatics Lab, and [Minimalism, Learning and 
 Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 
-You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu_cv_april_2024.pdf).
+You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu_cv_oct_2024.pdf).
 
 ## News!
 Fresh CLS proceedings paper: 
