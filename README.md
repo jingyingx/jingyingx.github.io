@@ -6,7 +6,7 @@ Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu-cv_oct_2024.pdf).
 
 ## News!
-I'm ABD (All But Dissertation) now! (October, 2024)
+After defending my 2nd Comp paper (Title: A pragmatic account for non-culmination in Mandarin), I'm officially ABD (All But Dissertation) now! (October, 2024)
 
   
 ## Presentations
