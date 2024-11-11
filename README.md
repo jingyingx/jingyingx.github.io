@@ -6,7 +6,8 @@ Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu-cv_oct_2024.pdf).
 
 ## News!
-After defending my 2nd Comp paper (Title: A pragmatic account for non-culmination in Mandarin), I'm officially ABD (All But Dissertation) now! (October, 2024)
+Fresh SALT proceedings paper:
+**Xu, Jingying**, & Cristina Schmitt. (to appear). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34).
 
   
 ## Presentations
@@ -31,7 +32,7 @@ After defending my 2nd Comp paper (Title: A pragmatic account for non-culminatio
 - **Xu, Jingying**, & Aijun Huang. (2015). Development of Pragmatic Knowledge in L2 Learners of Mandarin Chinese. Talk presented at the 4th Syntax and Semantics in China (SSiC 2015), Xi’an.
 
 ## Publications
-- **Xu, Jingying**, & Cristina Schmitt. (to appear). Pragmatic accommodations in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34).
+- **Xu, Jingying**, & Cristina Schmitt. (to appear). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (under review). Navigating Mandarin Subtleties: Korean Speakers' Acquisition of Mandarin's Negative wh-pronoun Construction
