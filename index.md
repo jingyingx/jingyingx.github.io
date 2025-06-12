@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Jingying Xu 徐婧颖"
+title: "Home"
 permalink: /
 ---
 
