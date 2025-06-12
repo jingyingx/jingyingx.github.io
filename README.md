@@ -6,8 +6,11 @@ Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingxu-cv_oct_2024.pdf).
 
 ## News!
-Fresh GLOSSA paper:
-Ke, A. H., Xu, J. & Ding, L., (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). doi: https://doi.org/10.16995/glossa.18053
+Fresh papers this year:
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). DOI: https://doi.org/10.16995/glossa.18053
+- **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
+- **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
+- **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: https://doi.org/10.3765/sgccnn77
   
 ## Presentations
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Children do not have different verb representations from adults: Non-culminating incremental theme predicates in Mandarin-speaking children. Poster presented at the 16th Generative Approaches to Language Acquisition (GALA 16). The NOVA University of Lisbon, Lisbon.
@@ -29,7 +32,7 @@ Ke, A. H., Xu, J. & Ding, L., (2025) “Modeling the Learning of Parametric Vari
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (under review). Navigating Mandarin Subtleties: Korean Speakers' Acquisition of Mandarin's Negative wh-pronoun Construction
-- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). doi: https://doi.org/10.16995/glossa.18053
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). DOI: https://doi.org/10.16995/glossa.18053
 - **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: https://doi.org/10.3765/sgccnn77
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
 - Huang, Aijun, & **Jingying Xu**. (2021). Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese). Linguistic Research.
