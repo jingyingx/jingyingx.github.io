@@ -4,8 +4,7 @@ remote_theme: mmistakes/minimal-mistakes
 #description: Me at WCCFL 42
 #show_downlodas: true
 # Enable navigation
-header:
-  nav:
+nav:
     - title: "Home"
       url: "/"
     - title: "Research"
