@@ -1,10 +1,10 @@
 title: Jingying Xu 徐婧颖
 logo: /assets/img/wccfl.jpg
 remote_theme: mmistakes/minimal-mistakes
-#description: Me at WCCFL 42
+description: Linguistics | Language Acquisition | Syntax & Semantics
 #show_downlodas: true
 # Enable navigation
-nav:
+navigation:
     - title: "Home"
       url: "/"
     - title: "Research"
