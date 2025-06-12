@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Research
+layout: single
+title: "Research"
 permalink: /research/
 ---
 
