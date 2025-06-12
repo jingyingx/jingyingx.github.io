@@ -13,8 +13,8 @@ You can find a current copy of my CV [here](http://jingyingx.github.io/jingyingx
 
 ## News!
 Fresh papers this year:
-- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). DOI: https://doi.org/10.16995/glossa.18053
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) [Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach](https://www.glossa-journal.org/article/id/18053/). Glossa: A Journal of General Linguistics 10(1). DOI: https://doi.org/10.16995/glossa.18053
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
-- **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: https://doi.org/10.3765/sgccnn77
+- **Xu, Jingying**, & Cristina Schmitt. (2025). [Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/34.025). DOI: https://doi.org/10.3765/sgccnn77
   
