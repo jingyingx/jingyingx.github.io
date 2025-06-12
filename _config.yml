@@ -3,7 +3,7 @@ logo: /assets/img/wccfl.jpg
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Navigation bar
-navigation:
+nav:
   - title: "Home"
     url: /
   - title: "Research"
