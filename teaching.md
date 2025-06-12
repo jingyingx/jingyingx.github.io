@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Teaching
-permalink: /teaching
+permalink: /teaching/
 ---
 
 # Teaching
