@@ -60,7 +60,7 @@ Mandarin noun countability has been explained either by a **syntactic** account,
 ### Publications
 - Huang, Aijun, & **Jingying Xu**. (2021). Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese). Linguistic Research.
 
-### Unpublished BA these
+### Unpublished BA thesis
 - Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition.
 
 #  Non-Interrogative Use of Mandarin Negative Wh-Pronoun Construction *mei...shenme* 'not...what'
