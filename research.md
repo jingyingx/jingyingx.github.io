@@ -18,6 +18,7 @@ My research focuses on language acquisition, particularly in the following areas
 - **Xu, Jingying**. (2022). Telicity in Mandarin Preschoolers. Talk presented at the Graduate Linguistics Expo at Michigan State (GLEAMS) 2022, East Lansing.
 
 ### Publications
+- **Xu, Jingying**, & Cristina Schmitt. (under review). Telicity in context: An instruction-based approach to non-culminating interpretation.
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: https://doi.org/10.3765/sgccnn77
