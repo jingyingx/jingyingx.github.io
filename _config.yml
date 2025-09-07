@@ -11,3 +11,7 @@ plugins:
 url: "https://jingyingx.github.io"
 baseurl: ""
 
+author:
+  name: "Jingying Xu"
+  avatar: /assets/img/your_photo.jpg
+
