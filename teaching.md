@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching and Mentoring"
 permalink: /teaching/
 ---
-
 # Teaching
 
 Here are the courses I’ve taught or supported:
