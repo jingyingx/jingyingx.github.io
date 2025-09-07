@@ -2,6 +2,7 @@
 layout: home
 title: "Home"
 permalink: /
+author_profile: true
 ---
 
 Hello! I'm a PhD candidate in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on first language acquisition of syntax and semantics. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). [Alan Munn](https://amunn.github.io/), [Alan Hezao Ke](https://hezaoke.weebly.com/), and [Brian Buccola](https://brianbuccola.com/) are also on my committee. 
