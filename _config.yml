@@ -1,12 +1,13 @@
-title: Jingying Xu 徐婧颖
+title: "Jingying Xu 徐婧颖"
 logo: /assets/img/wccfl.jpg
-remote_theme: "mmistakes/minimal-mistakes"
 
-# Navigation bar
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+url: "https://jingyingx.github.io"
+baseurl: ""
+
