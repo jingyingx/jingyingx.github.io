@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-My research focuses on the following areas:
+My research covers the following topics:
 
 # Aspect and Telicity
 Why do adults and children sometimes disagree about sentences like “She ate the cookies” when not all cookies are fully eaten? We argue that developmental and cross-linguistic variability in telicity judgments arise not from differences in core aspectual meanings, but from how these meanings are pragmatically evaluated in context.
