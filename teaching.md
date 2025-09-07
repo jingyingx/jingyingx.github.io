@@ -20,5 +20,6 @@ Here are the courses I’ve taught or supported:
 I also mentor undergraduate research projects at MSU through: 
 - **University Undergraduate Research and Arts Forum (URRAF)** (2 projects, including a **2024 First-Pize Award**)
 - **Mid-Michigan Symposium for Undergraduate Research Experiences (MidSURE)** (2 porjects).
+- **MSU Honors College** — mentoring **one Honors student** on an independent research project (Fall 2024).
 
 
