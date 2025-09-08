@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "徐婧颖 Xú Jìngyǐng [ɕy35 t͡ɕiŋ51 iŋ214]"
+title: "Jingying Xu"
 permalink: /
 author_profile: true
 classes: wide
