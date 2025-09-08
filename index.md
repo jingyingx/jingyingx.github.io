@@ -1,7 +1,6 @@
 ---
 layout: home
 permalink: /
-title: "Xu, Jingying"
 author_profile: true
 classes: wide
 ---
