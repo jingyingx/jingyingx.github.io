@@ -8,7 +8,7 @@ Here are the courses I’ve taught or supported:
 
 ## Michigan State University
 - **LIN 200: Introduction to Language** – Instructor (Fall 2022, Spring 2023) ([syllabus](http://jingyingx.github.io/LIN200-Fall22MW-001-syllabus.pdf))
-- **LIN 401: Introduction to Linguistics** – Teaching Assistant (Spring 2022, Fall 2023, Spring 2024, Fall 2024)
+- **LIN 401: Introduction to Linguistics** – Teaching Assistant (Spring 2022, Fall 2024) and Recitation Instructor (Fall 2023, Spring 2024)
 
 ## Tsinghua University 
 - **Language and Cognition** - Teaching Assistant (Fall 2019)
