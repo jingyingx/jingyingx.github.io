@@ -14,5 +14,10 @@ baseurl: ""
 author:
   name: "Jinging Xu"
   avatar: /assets/img/wccfl.jpg
+  links:
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/jingyingxu-cv_sept_2025.pdf"
+  
   
 
