@@ -26,6 +26,8 @@ Why do adults and children sometimes disagree about sentences like “She ate th
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: https://doi.org/10.3765/sgccnn77
 
+<br>
+
 # Modeling Syntactic Parameter Setting
 We propose an input-driven, hierarchical “Clustering Approach” to parameter setting that unifies strengths of direct setting and grammar selection, resolves a key issue in prior hybrids, and scales to larger parameter spaces.
 
@@ -35,6 +37,8 @@ We propose an input-driven, hierarchical “Clustering Approach” to parameter 
 ### Publications
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). DOI: https://doi.org/10.16995/glossa.18053
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
+
+<br>
 
 # Acquisition of Mandarin Control Structues
 How do toddlers interpret who does the action in sentences like *X xiang chi-fan* 'X wanted to eat' and *X jiao Y chi-fan* 'X asked Y to eat'? Using the Intermodal Preferential Looking Paradigm, we show Mandarin-speaking two-year-olds already track subject control and distinguish it from object control, offerring early evidence on the initial state of grammar and support continuity in language acquisition.
@@ -50,6 +54,7 @@ How do toddlers interpret who does the action in sentences like *X xiang chi-fan
 ### Unpublished MA thesis
 - An Experiment Study of Mandarin-Speaking Children’s Early Comprehension of Complement Control.
 
+<br>
 
 # Mandarin Count-Mass Issue
 Mandarin noun countability has been explained either by a **syntactic** account, where classifiers determine and specify countability, leaving bare nouns mass/underspecified, or by a **semantic** account, where nouns are lexically count vs. mass based on denotation or classifier-collocation constraints. In this project, we present experimental evidence that Mandarin nouns are underspecified for countability, and that size-/shape-denoting adjectives, analogous to classifiers, supply an individuation function that determines countability. Children acquire adjectival individuation slowly, in parallel with the protracted acquisition of classifier individuation. 
@@ -62,6 +67,8 @@ Mandarin noun countability has been explained either by a **syntactic** account,
 
 ### Unpublished BA thesis
 - Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition.
+
+<br>
 
 #  Non-Interrogative Use of Mandarin Negative Wh-Pronoun Construction *mei...shenme* 'not...what'
 In Mandarin, the *mei…shenme* (‘not…what’) construction supports a categorical **None** reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu didn’t eat anything at all.’) and a scalar Insignificance reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu ate very little’). We find the L2 pattern mirrors L1: **None** before **Insignificance**, but on a more gradual curve. We consider linguistic and non-linguistic factors (e.g., input frequency, task/pragmatics factors) to account for similarities and differences across L1 and L2 acquisition.
