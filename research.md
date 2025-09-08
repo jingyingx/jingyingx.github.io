@@ -35,7 +35,7 @@ We propose an input-driven, hierarchical “Clustering Approach” to parameter 
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2023). The Clustering Approach: An Input-Driven Approach to Parameter Setting. [Poster](http://jingyingx.github.io/BUCLD_48_Poster_The_clustering_approach_Ke_Xu_Ding.pdf) presented at the 48th Annual Boston University Conference on Language Development (BUCLD 48), Boston.
 
 ### Publications
-- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). DOI: https://doi.org/10.16995/glossa.18053
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) “Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach”, Glossa: a journal of general linguistics 10(1). [DOI: https://doi.org/10.16995/glossa.18053]
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
 
 <br>
