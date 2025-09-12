@@ -14,7 +14,7 @@ baseurl: ""
 author:
   name: " 徐婧颖 <br> Xú, Jìngyǐng <br> [ɕy˧˥ t͡ɕiŋ˥˩ iŋ˨˩˦]"
   bio: "Email: xujing21 at msu.edu"
-  avatar: /assets/img/profile.JPG
+  avatar: /assets/img/profile.jpg
   links: 
     - label: "CV"
       icon: "fas fa-file-pdf"
