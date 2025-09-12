@@ -2,6 +2,11 @@
 layout: single
 title: "Research"
 permalink: /research/
+author_profile: true
+author:
+  name: "I ate the cookies."
+  avatar: /assets/img/cookie.png
+  bio: "Is that true?"
 ---
 
 My research covers the following topics:
