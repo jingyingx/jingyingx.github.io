@@ -4,10 +4,23 @@ title: "Research"
 permalink: /research/
 author_profile: true
 author:
-  name: "I ate the cookies."
+  name: ""I ate the cookies.""
   avatar: /assets/img/cookie.png
   bio: "Is that true?"
 ---
+
+<style>
+  /* desktop only */
+  @media (min-width:801px){
+    .author__avatar,
+    .author__avatar img {
+      border-radius: 0 !important;    /* make square */
+      box-shadow: none !important;    /* optional: remove ring */
+      object-fit: cover !important;   /* fill the box without distortion */
+    }
+  }
+</style>
+
 
 My research covers the following topics:
 
