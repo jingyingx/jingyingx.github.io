@@ -9,7 +9,7 @@ classes: wide
   @media (min-width:801px){
     .author__avatar{
       width:200px;                  /* visible frame */
-      height:260px;
+      height:270px;
       overflow:hidden;              /* hide overflow */
     }
     .author__avatar img{
