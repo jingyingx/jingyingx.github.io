@@ -2,6 +2,7 @@
 layout: home
 permalink: /
 author_profile: true
+title: Jingying Xu
 classes: wide
 ---
 
