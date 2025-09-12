@@ -8,17 +8,17 @@ author:
 ---
 
 <style>
-  @media (min-width:801px){
-    .author__avatar img {
-      border-radius: 0 !important;   /* force square */
-      object-fit: cover !important;  /* crop nicely if sizes differ */
-      width: 350px;                  /* set fixed size if you want */
-      height: auto;                  /* keep aspect ratio */
-      box-shadow: none !important;   /* remove circular border glow */
-    }
+@media (min-width:801px){
+  .author__avatar img {
+    border-radius: 0 !important;
+    object-fit: cover !important;
+    width: 320px !important;   /* bigger */
+    height: auto !important;    /* preserve aspect ratio */
+    box-shadow: none !important;
+    max-width: none !important;
   }
+}
 </style>
-
 
 
 
