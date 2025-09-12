@@ -2,7 +2,29 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
+author:
+  avatar: /assets/img/lin.jpg
 ---
+
+<style>
+  @media (min-width:801px){
+    .author__avatar img {
+      border-radius: 0 !important;   /* force square */
+      object-fit: cover !important;  /* crop nicely if sizes differ */
+      width: 350px;                  /* set fixed size if you want */
+      height: auto;                  /* keep aspect ratio */
+      box-shadow: none !important;   /* remove circular border glow */
+    }
+  }
+</style>
+
+
+
+
+
+
+
 
 Here are the courses I’ve taught or supported:
 
