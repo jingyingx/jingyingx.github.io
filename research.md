@@ -4,19 +4,19 @@ title: "Research"
 permalink: /research/
 author_profile: true
 author:
-  name: ""I ate the cookies.""
+  name: '"I ate the cookies."'
   avatar: /assets/img/cookie.png
   bio: "Is that true?"
 ---
 
 <style>
-  /* desktop only */
   @media (min-width:801px){
-    .author__avatar,
     .author__avatar img {
-      border-radius: 0 !important;    /* make square */
-      box-shadow: none !important;    /* optional: remove ring */
-      object-fit: cover !important;   /* fill the box without distortion */
+      border-radius: 0 !important;   /* force square */
+      object-fit: cover !important;  /* crop nicely if sizes differ */
+      width: 200px;                  /* set fixed size if you want */
+      height: auto;                  /* keep aspect ratio */
+      box-shadow: none !important;   /* remove circular border glow */
     }
   }
 </style>
