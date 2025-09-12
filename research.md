@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 author:
-  name: '"She ate the cookies."'
+  name: '"I ate the cookies."'
   avatar: /assets/img/cookie.png
   bio: "Is that true?"
 ---
