@@ -44,24 +44,24 @@ Why do adults and children sometimes disagree about sentences like “She ate th
 - **Xu, Jingying**, & Cristina Schmitt. (under review). Telicity in context: An instruction-based approach to non-culminating interpretation.
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
-- **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: https://doi.org/10.3765/sgccnn77
+- **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: [https://doi.org/10.3765/sgccnn77](https://doi.org/10.3765/sgccnn77)
 
 <br>
 
 # Modeling Syntactic Parameter Setting
-We propose an input-driven, hierarchical “Clustering Approach” to parameter setting that unifies strengths of direct setting and grammar selection, resolves a key issue in prior hybrids, and scales to larger parameter spaces.
+We propose an input-driven, hierarchical “Clustering Approach” to parameter setting that unifies strengths of direct parameter setting and grammar selection, resolves a key issue in prior hybrid models, and scales to larger parameter spaces.
 
 ### Presentations
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2023). The Clustering Approach: An Input-Driven Approach to Parameter Setting. [Poster](http://jingyingx.github.io/BUCLD_48_Poster_The_clustering_approach_Ke_Xu_Ding.pdf) presented at the 48th Annual Boston University Conference on Language Development (BUCLD 48), Boston.
 
 ### Publications
-- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach. Glossa: a journal of general linguistics 10(1). DOI: https://doi.org/10.16995/glossa.18053
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach. Glossa: a journal of general linguistics 10(1). DOI: [https://doi.org/10.16995/glossa.18053](https://doi.org/10.16995/glossa.18053)
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
 
 <br>
 
 # Acquisition of Mandarin Control Structues
-How do toddlers interpret who does the action in sentences like *X xiang chi-fan* 'X wanted to eat' and *X jiao Y chi-fan* 'X asked Y to eat'? Using the Intermodal Preferential Looking Paradigm, we show Mandarin-speaking two-year-olds already track subject control and distinguish it from object control, offerring early evidence on the initial state of grammar and support continuity in language acquisition.
+How do toddlers interpret who does the action in sentences like *X xiang chi-fan* 'X wanted to eat' and *X jiao Y chi-fan* 'X asked Y to eat'? Using the Intermodal Preferential Looking Paradigm (IPLP), we show that Mandarin-speaking two-year-olds already track subject control and distinguish it from object control, offerring early evidence on the knowledge of PRO and support continuity in language acquisition.
 
 ### Presentations
 - **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. Poster presented at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
@@ -91,7 +91,7 @@ Mandarin noun countability has been explained either by a **syntactic** account,
 <br>
 
 #  Non-Interrogative Use of Mandarin Negative Wh-Pronoun Construction *mei...shenme* 'not...what'
-In Mandarin, the *mei…shenme* (‘not…what’) construction supports a categorical **None** reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu didn’t eat anything at all.’) and a scalar Insignificance reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu ate very little’). We find the L2 pattern mirrors L1: **None** before **Insignificance**, but on a more gradual curve. We consider linguistic and non-linguistic factors (e.g., input frequency, task/pragmatics factors) to account for similarities and differences across L1 and L2 acquisition.
+In Mandarin, the *mei…shenme* (‘not…what’) construction supports a categorical **None** reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu didn’t eat anything at all.’) and a scalar Insignificance reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu ate very little.’). We find the L2 pattern mirrors L1: **None** before **Insignificance**, but on a more gradual curve. We consider linguistic and non-linguistic factors (e.g., input frequency, task and pragmatics factors) to account for similarities and differences across L1 and L2 acquisition.
 
 ### Presentations
 - Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (2021). The Acquisition of Chinese Negative Wh-Pronoun Constructions by Korean Speakers. Talk presented at the 9th International Conference on Formal Linguistics (ICFL 9), Shanghai.
