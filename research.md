@@ -14,7 +14,7 @@ author:
   .author__avatar img {
     border-radius: 0 !important;
     object-fit: cover !important;
-    width: 260px !important;   /* bigger */
+    width: 250px !important;   /* bigger */
     height: auto !important;    /* preserve aspect ratio */
     box-shadow: none !important;
     max-width: none !important;
