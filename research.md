@@ -69,7 +69,7 @@ How do toddlers interpret who does the action in sentences like *X xiang chi-fan
 - **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. Poster presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
 
 ### Publications
-- Yang, Xiaolu, **Xu, Jingying**, & Shi, Rushen. (2025). Mandarin-speaking two-year-old children’ comprehension of complement control: Evidence from a preferential looking experiment. International Journal of Chinese Linguistics (IJChL)12(2).
+- Yang, Xiaolu, **Xu, Jingying**, & Shi, Rushen. (2025). [Mandarin-speaking two-year-old children’ comprehension of complement control: Evidence from a preferential looking experiment](http://jingyingx.github.io/ijchl.24006.pdf). International Journal of Chinese Linguistics (IJChL)12(2).
 
 - **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2021). [Complement control in early child grammar: A study of Mandarin-speaking two-year-olds’ comprehension](https://www.lingref.com/bucld/45/BUCLD45-58.pdf). In Daniell Dionne & Lee-Ann Vidal Covas (Eds.), Proceedings of the 45th Annual Boston University Conference on Language Development (BUCLD 45). Somerville, MA: Cascadilla Press.
 
