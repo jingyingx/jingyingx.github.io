@@ -45,7 +45,7 @@ Why do adults and children sometimes disagree about sentences like “She ate th
 - **Xu, Jingying**, & Cristina Schmitt. (in prep.). Knowing the instructions, struggling to implement: Telicity judgments in Mandarin-speaking children.
 - **Xu, Jingying**, & Cristina Schmitt. (under review). Telicity in context: An instruction-based approach to non-culminating interpretation.
 - **Xu, Jingying**, & Cristina Schmitt. (to appear). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60).
-- **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](http://jingyingx.github.io/WCCFL_xu_schmitt.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
+- **Xu, Jingying**, & Cristina Schmitt. (to appear). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](https://www.lingref.com/cpp/wccfl/42/paper3846.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: [https://doi.org/10.3765/sgccnn77](https://doi.org/10.3765/sgccnn77)
 
 <br>
