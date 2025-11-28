@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "NLP portfolio"
+title: "NLP Portfolio"
 permalink: /nlp/
 author_profile: true
 author:
