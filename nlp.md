@@ -35,12 +35,12 @@ A high-performing, fully interpretable authorship attribution pipeline combining
   - Pronoun rates (1st and 2nd person)
   - Length/digit statistics (log length, digit ratio)
 - LinearSVC classifier  
-- Neural baseline (BiLSTM)
+- BiLSTM neural baseline
 
 **Results:**  
-- LinearSVC: 98.97% accuracy  
-- BiLSTM: ~42% accuracy  
-- ~6 points higher accuracy than reported BERTAA (~93%)
+- LinearSVC: **98.97% accuracy**  
+- BiLSTM: **~42% accuracy**  
+- Outperforms reported BERTAA baseline by **~6 points** (~93%)
 
 **Skills:** Feature engineering, scikit-learn, TensorFlow, spaCy, model evaluation  
 **Repo:** [imdb62-authorship-attribution](https://github.com/jingyingx/imdb62-authorship-attribution)
