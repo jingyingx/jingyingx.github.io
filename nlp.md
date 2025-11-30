@@ -2,6 +2,7 @@
 layout: single
 title: "NLP Portfolio"
 permalink: /nlp/
+classes: full
 author_profile: false
 ---
 
