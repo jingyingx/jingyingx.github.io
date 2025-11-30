@@ -62,9 +62,7 @@ We analyzed **3,196 adult-to-child utterances** from the Brown corpus (CHILDES) 
 **Takeaway:**
 Child-directed speech provides strong statistical cues for some verb types but not others, suggesting that children’s broader verb learning depends on more than input statistics alone (e.g., visual context, world knowledge, pragmatics).
 
-**Skills:** 
-Corpus construction, linguistic annotation, feature engineering, scikit-learn (SVM, MLP), DistilBERT embeddings, model evaluation
+**Skills:** Corpus construction, linguistic annotation, feature engineering, scikit-learn, DistilBERT embeddings, model evaluation
 
-**Paper**
----
+**Paper:** [*Verb Classification in Child Input: Can Models Learn from Child Input Like Children Do?*](http://jingyingx.github.io/verb_classifier.pdf)
 
