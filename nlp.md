@@ -46,3 +46,19 @@ A high-performing, fully interpretable authorship attribution pipeline combining
 **Skills:** Feature engineering, scikit-learn, TensorFlow, spaCy, model evaluation  
 **Repo:** [imdb62-authorship-attribution](https://github.com/jingyingx/imdb62-authorship-attribution)
 
+### **2. Can Models Learn from Child-Directed Input Like Children Do? Verb Classification in Child-Directed Speech (with Molly Thornber)**
+This project investigates whether small, naturalistic child-directed speech contains enough information for a model to learn verb classes that children eventually master. The goal is to test **learnability**: Is there enough input for models trained on child-sized data to distinguish aspectual verb types?
+
+We analyzed **3,196 adult-to-child utterances** from the Brown corpus (CHILDES) and grouped 20 verbs into four intuitive classes (*eat*-type, *clean*-type, *open*-type, *carry*-type). Each token was manually annotated with **14 syntactic and semantic features** and modeled using **linguistic features**, **DistilBERT embeddings**, and **combined features** with **SVM** and **FFNN** classifiers.
+
+**Results:**  
+- Only ***eat*-type** verbs were reliably learnable (F1 ≈ 0.69).
+- Other classes (*open*, *clean*, *carry*) showed poor recoverability (F1 < 0.35).
+- Two simple cues—**direct object presence** and **determiner-marked object**—were enough to classify *eat*-type verbs with high accuracy.
+
+**Takeaway:**
+Child-directed speech provides strong statistical cues for some verb types but not others, suggesting that children’s broader verb learning depends on more than input statistics alone (e.g., visual context, world knowledge, pragmatics).
+
+**Skills:** Corpus construction, linguistic annotation, feature engineering, scikit-learn (SVM, MLP), DistilBERT embeddings, model evaluation
+
+**Paper**
