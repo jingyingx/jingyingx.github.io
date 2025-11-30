@@ -22,6 +22,7 @@ I post updates on critiques of foundational NLP and LLM papers. The goal is to c
 
 ### **1. Feature engineering > Big Models: Authorship Attribution on IMDb62**
 The goal of this project is to show that **smart feature engineering + linear models** can outperform both naive neural models and transformer-based systems on stylometric authorship attribution tasks.
+
 A high-performing, fully interpretable authorship attribution pipeline combining:
 - Character TF–IDF  
 - Word TF–IDF  
