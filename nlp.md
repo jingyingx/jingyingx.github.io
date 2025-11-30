@@ -34,6 +34,7 @@ A high-performing, fully interpretable authorship attribution pipeline combining
 **Skills:** Feature engineering, scikit-learn, TensorFlow, spaCy, model evaluation  
 **Repo:** [imdb62-authorship-attribution](https://github.com/jingyingx/imdb62-authorship-attribution)
 
+
 ## NLP/LLM Paper Critiques
 
 I post updates on critiques of foundational NLP and LLM papers. The goal is to critically examine each paper’s assumptions, model design, and evaluation methodology. Rather than judging past work by modern standards, these critiques emphasize the specific problems each model was originally designed to solve. They also incorporate linguistic insights and highlight how a linguist’s perspective can deepen our understanding of NLP research.
