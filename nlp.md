@@ -24,6 +24,6 @@ A high-performing, fully interpretable authorship attribution pipeline combining
 - ~6 points higher accuracy than reported BERTAA (~93%)
 
 **Skills:** Feature engineering, scikit-learn, TensorFlow, spaCy, model evaluation  
-**Repo:** https://github.com/jingyingx/imdb62-authorship-attribution
+**Repo:** [imdb62-authorship-attributionh](ttps://github.com/jingyingx/imdb62-authorship-attribution)
 
 
