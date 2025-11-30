@@ -21,6 +21,7 @@ I post updates on critiques of foundational NLP and LLM papers. The goal is to c
 ## Featured Projects
 
 ### **1. Feature engineering > Big Models: Authorship Attribution on IMDb62**
+
 The goal of this project is to show that **smart feature engineering + linear models** can outperform both naive neural models and transformer-based systems on stylometric authorship attribution tasks.
 
 A high-performing, fully interpretable authorship attribution pipeline combining:
@@ -45,8 +46,8 @@ A high-performing, fully interpretable authorship attribution pipeline combining
 
 **Skills:** Feature engineering, scikit-learn, TensorFlow, spaCy, model evaluation  
 **Repo:** [imdb62-authorship-attribution](https://github.com/jingyingx/imdb62-authorship-attribution)
----
 
+<br><br>
 
 ### **2. Can Models Learn from Child-Directed Input Like Children Do? Verb Classification in Child-Directed Speech (with Molly Thornber)**
 This project investigates whether small, naturalistic child-directed speech contains enough information for a model to learn verb classes that children eventually master. The goal is to test **learnability**: Is there enough input for models trained on child-sized data to distinguish aspectual verb types?
@@ -61,7 +62,8 @@ We analyzed **3,196 adult-to-child utterances** from the Brown corpus (CHILDES) 
 **Takeaway:**
 Child-directed speech provides strong statistical cues for some verb types but not others, suggesting that children’s broader verb learning depends on more than input statistics alone (e.g., visual context, world knowledge, pragmatics).
 
-**Skills:** Corpus construction, linguistic annotation, feature engineering, scikit-learn (SVM, MLP), DistilBERT embeddings, model evaluation
+**Skills:** 
+Corpus construction, linguistic annotation, feature engineering, scikit-learn (SVM, MLP), DistilBERT embeddings, model evaluation
 
 **Paper**
 ---
