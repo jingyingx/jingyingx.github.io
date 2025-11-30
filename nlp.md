@@ -10,7 +10,7 @@ Welcome to my NLP portfolio, which highlights my applied NLP projects and critic
 
 ## Featured Projects
 
-### **1. Authorship Attribution on IMDB62 (2025)**
+### **1. Authorship Attribution on IMDb62**
 A high-performing, fully interpretable authorship attribution pipeline combining:
 - Character TF–IDF  
 - Word TF–IDF  
