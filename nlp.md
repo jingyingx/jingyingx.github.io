@@ -34,4 +34,8 @@ A high-performing, fully interpretable authorship attribution pipeline combining
 **Skills:** Feature engineering, scikit-learn, TensorFlow, spaCy, model evaluation  
 **Repo:** [imdb62-authorship-attribution](https://github.com/jingyingx/imdb62-authorship-attribution)
 
+## NLP/LLM Paper Critiques
 
+I post updates on critiques of foundational NLP and LLM papers. The goal is to critically examine each paper’s assumptions, model design, and evaluation methodology. Rather than judging past work by modern standards, these critiques emphasize fairness, technical accuracy, and the specific problems each model was originally designed to solve. They also incorporate linguistic insights and highlight how a linguist’s perspective can deepen our understanding of NLP research.
+
+- [*GPT or BERT: Why not both?* — Charpentier & Samuel (2024), winner of the 2nd BabyLM Challenge (2024)](
