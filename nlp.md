@@ -14,7 +14,15 @@ Welcome to my NLP portfolio, which highlights my applied NLP projects and critic
 A high-performing, fully interpretable authorship attribution pipeline combining:
 - Character TF–IDF  
 - Word TF–IDF  
-- Rich stylometric features (punctuation, discourse markers, lexical richness, POS patterns, modals, superlatives)  
+- Rich stylometric features
+  - Discourse markers (and, but, however, though)
+  - Punctuation style (commas, periods, quotes, dashes…)
+  - Vocabulary richness (TTR, hapax)
+  - POS-based lexical richness (VERB, ADJ, ADV)
+  - Modal usage (can, will, would, may…)
+  - Superlatives (“most”, “-est”)
+  - Pronoun rates (1st and 2nd person)
+  - Length/digit statistics (log length, digit ratio)
 - LinearSVC classifier  
 - Neural baseline (BiLSTM)
 
@@ -24,6 +32,6 @@ A high-performing, fully interpretable authorship attribution pipeline combining
 - ~6 points higher accuracy than reported BERTAA (~93%)
 
 **Skills:** Feature engineering, scikit-learn, TensorFlow, spaCy, model evaluation  
-**Repo:** [imdb62-authorship-attributionh](ttps://github.com/jingyingx/imdb62-authorship-attribution)
+**Repo:** [imdb62-authorship-attribution](https://github.com/jingyingx/imdb62-authorship-attribution)
 
 
