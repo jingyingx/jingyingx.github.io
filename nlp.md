@@ -39,7 +39,7 @@ A high-performing, fully interpretable authorship attribution pipeline combining
 
 I post updates on critiques of foundational NLP and LLM papers. The goal is to critically examine each paper’s assumptions, model design, and evaluation methodology. Rather than judging past work by modern standards, these critiques emphasize the specific problems each model was originally designed to solve. They also incorporate linguistic insights and highlight how a linguist’s perspective can deepen our understanding of NLP research.
 
-- [*GPT or BERT: Why not both?* Charpentier & Samuel (2024) - winner of the 2nd BabyLM Challenge (2024).](http://jingyingx.github.io/critique_BabyLM.pdf)
-- [*BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding* (Devlin et al., 2019)](http://jingyingx.github.io/critique_bert.pdf)
-- [*Efficient Estimation of Word Representations in Vector Space* (Mikolov et al., 2013) — introduction of the Word2Vec skip-gram and CBOW models.](http://jingyingx.github.io/critique_word2vec.pdf)
-- [*A Neural Probabilistic Language Model* (Bengio et al., 2003) — early neural approach to language modeling prior to word embeddings.](http://jingyingx.github.io/critique_neural.pdf)
+- [*GPT or BERT: Why not both?* Charpentier & Samuel (2024)](http://jingyingx.github.io/critique_BabyLM.pdf) - winner of the 2nd BabyLM Challenge (2024).
+- [*BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding* (Devlin et al., 2019)](http://jingyingx.github.io/critique_bert.pdf) — the foundational BERT paper introducing bidirectional Transformer pretraining.
+- [*Efficient Estimation of Word Representations in Vector Space* (Mikolov et al., 2013)](http://jingyingx.github.io/critique_word2vec.pdf) — introduction of the Word2Vec skip-gram and CBOW models.
+- [*A Neural Probabilistic Language Model* (Bengio et al., 2003)](http://jingyingx.github.io/critique_neural.pdf) — early neural approach to language modeling prior to word embeddings.
