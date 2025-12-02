@@ -64,5 +64,5 @@ Child-directed speech provides strong statistical cues for some verb types but n
 
 **Skills:** Corpus construction, linguistic annotation, feature engineering, scikit-learn, DistilBERT embeddings, model evaluation
 
-**Paper:** [*Verb Classification in Child Input: Can Models Learn from Child Input Like Children Do?*](http://jingyingx.github.io/verb_classifier.pdf)
+**Paper:** 
 
