@@ -66,7 +66,7 @@ We propose an input-driven, hierarchical “Clustering Approach” to parameter 
 How do toddlers interpret who does the action in sentences like *X xiang chi-fan* 'X wanted to eat' and *X jiao Y chi-fan* 'X asked Y to eat'? Using the Intermodal Preferential Looking Paradigm (IPLP), we show that Mandarin-speaking two-year-olds already track subject control and distinguish it from object control, offerring early evidence on the knowledge of PRO and support continuity in language acquisition.
 
 ### Presentations
-- **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. [Poster]((http://jingyingx.github.io/control.pdf) presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
+- **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. [Poster](http://jingyingx.github.io/control.pdf) presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
 
 ### Publications
 - Yang, Xiaolu, **Xu, Jingying**, & Shi, Rushen. (2025). [Mandarin-speaking two-year-old children’ comprehension of complement control: Evidence from a preferential looking experiment](http://jingyingx.github.io/ijchl.24006.yan.pdf). International Journal of Chinese Linguistics (IJChL)12(2).
