@@ -27,13 +27,13 @@ classes: wide
 
 
 
-Hello! I'm a PhD candidate in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on syntax, semantics and first language acquisition of the two areas. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). [Alan Munn](https://amunn.github.io/), [Alan Hezao Ke](https://hezaoke.weebly.com/), and [Brian Buccola](https://brianbuccola.com/) are also on my committee. 
+Hello! I'm a PhD candidate in the [Linguistics Program](https://lilac.msu.edu/linguistics/) of Michigan State University (MSU). My research focuses on syntax, semantics and first language acquisition of the two areas. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). 
 
 I'm part of the [MSU Language Acquisition Lab](https://www.msuacquisition.org/index.html), Semantics-Pragmatics Lab, and [Minimalism, Learning and 
 Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab). I'm also doing the [Interdepartmental Graduate Specialization in Cognitive Science](https://cogsci.msu.edu/graduate.html). 
 
 You can find a current copy of my CV [here](/jingyingxu-cv_sept_2025.pdf).
 
-Outside of linguistics, I enjoy cooking, handcrafting and hiking. 
+Outside of linguistics, I enjoy cooking, handcrafting, and playing the piano. 
 
 
