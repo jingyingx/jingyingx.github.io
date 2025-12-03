@@ -66,7 +66,7 @@ We propose an input-driven, hierarchical “Clustering Approach” to parameter 
 How do toddlers interpret who does the action in sentences like *X xiang chi-fan* 'X wanted to eat' and *X jiao Y chi-fan* 'X asked Y to eat'? Using the Intermodal Preferential Looking Paradigm (IPLP), we show that Mandarin-speaking two-year-olds already track subject control and distinguish it from object control, offerring early evidence on the knowledge of PRO and support continuity in language acquisition.
 
 ### Presentations
-- **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. Poster presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
+- **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. [Poster]((http://jingyingx.github.io/control.pdf) presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
 
 ### Publications
 - Yang, Xiaolu, **Xu, Jingying**, & Shi, Rushen. (2025). [Mandarin-speaking two-year-old children’ comprehension of complement control: Evidence from a preferential looking experiment](http://jingyingx.github.io/ijchl.24006.yan.pdf). International Journal of Chinese Linguistics (IJChL)12(2).
@@ -85,7 +85,7 @@ Mandarin noun countability has been explained either by a **syntactic** account,
 - **Xu, Jingying**, & Aijun Huang. (2016). Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition. Oral presentation at the 5th Syntax and Semantics in China (SSiC 2016), Shanghai.
   
 ### Publications
-- Huang, Aijun, & **Jingying Xu**. (2021). Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese). Linguistic Research.
+- Huang, Aijun, & **Jingying Xu**. (2021). [Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese)](http://jingyingx.github.io/adjectival_modification.pdf). Linguistic Research.
 
 ### Unpublished BA thesis
 - Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition.
