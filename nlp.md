@@ -26,7 +26,7 @@ This project investigates whether small, naturalistic child-directed speech cont
 We analyzed **3,196 adult-to-child utterances** from the Brown corpus (CHILDES) and grouped 19 verbs into four intuitive classes (*eat*-type, *clean*-type, *open*-type, *carry*-type) based on the temporal structures of the events they describe. Each token was manually annotated with **14 syntactic and semantic features** and modeled using **linguistic features**, **DistilBERT embeddings**, and **combined features** with **SVM** and **FFNN** classifiers.
 
 **Results:**  
-- Only ***eat*-type** verbs were reliably learnable (F1 ≈ 0.69).
+- The ***eat*-type** verbs were reliably learnable (F1 ≈ 0.69).
 - Other classes (*open*, *clean*, *carry*) showed poor recoverability (F1 < 0.35).
 - Two simple cues—**direct object presence** and **determiner-marked object**—were enough to classify *eat*-type verbs with high accuracy.
 
