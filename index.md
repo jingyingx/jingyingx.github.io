@@ -34,6 +34,6 @@ Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab). I'm 
 
 You can find a current copy of my CV [here](/jingyingxu-cv_sept_2025.pdf).
 
-Outside of linguistics, I enjoy cooking, handcrafting, and playing the piano. 
+Outside of linguistics, I enjoy handcrafting, playing the piano, and exploring fashion and design.
 
 
