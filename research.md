@@ -100,6 +100,6 @@ In Mandarin, the *mei…shenme* (‘not…what’) construction supports a categ
 - **Xu, Jingying**, & Aijun Huang. (2015). Development of Pragmatic Knowledge in L2 Learners of Mandarin Chinese. Oral presentation at the 4th Syntax and Semantics in China (SSiC 2015), Xi’an.
 
 ### Publications
-- Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (under review). Navigating Mandarin Subtleties: Korean Speakers' Acquisition of Mandarin's Negative wh-pronoun Construction
+- Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (to appear). Navigating Mandarin Subtleties: Korean Speakers' Acquisition of Mandarin's Negative wh-pronoun Construction. Journal of Psycholinguistic Research.
 
 
