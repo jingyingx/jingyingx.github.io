@@ -66,7 +66,7 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 <br>
 
 # Modeling Syntactic Parameter Setting
-How do children identify the grammar of their language from limited input? Within the Principles and Parameters framework, this means explaining how learners navigate a space of possible parameter settings without exhaustively testing every grammar. This paper introduces a computational model of a novel hierarchical approach to parameter setting, and argues that parameters, whether innate or derived from innate properties or another source, remain necessary within the Minimalist approach.
+How do children identify the grammar of their language from limited input? Within the Principles and Parameters framework, this means explaining how learners navigate a space of possible parameter settings without exhaustively testing every grammar. This project introduces a computational model of a novel hierarchical approach to parameter setting, and argues that parameters, whether innate or derived from innate properties or another source, remain necessary within the Minimalist approach.
 
 By directly comparing grammar selection and direct parameter setting, two approaches often treated separately, we show that each captures part of the learning problem. We then propose an input-driven, hierarchical **Clustering Approach** that combines their strengths: it updates only the parameters supported by the input and uses the order of acquisition to organize the hypothesis space more efficiently. The result is a more scalable model of parameter setting that resolves a key limitation of earlier hybrid accounts.
 
