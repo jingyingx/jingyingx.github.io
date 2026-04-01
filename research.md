@@ -19,6 +19,14 @@ author:
     box-shadow: none !important;
     max-width: none !important;
   }
+  
+   .page {
+    max-width: 1400px !important;
+  }
+
+  .page__inner-wrap {
+    max-width: 1100px !important;
+  }
 
   .page__content {
     font-size: 0.7rem !important;
