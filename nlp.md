@@ -5,6 +5,12 @@ permalink: /nlp/
 author_profile: false
 ---
 
+<style>
+  .page__content {
+    font-size: 0.7rem !important;
+  }
+}
+</style>
 
 Welcome to my NLP portfolio, which highlights my applied NLP projects and critical readings of foundational NLP/LLM papers from both computational and linguistic perspectives. My goal is to combine rigorous linguistic theory with modern machine learning methods to better understand how NLP models interpret, structure, and learn from language.
 
