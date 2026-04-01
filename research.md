@@ -43,6 +43,14 @@ Do Mandarin and English speakers judge sentences like “She ate those/three coo
 
 Using truth-value judgment experiments with English-speaking adults and Mandarin-speaking children and adults, I argue that these patterns reflect not a fundamentally different semantics, but differences in how linguistic meanings are verified against visual and discourse context. The project shows that (1) the mapping between language and the world is mediated by event representations shaped by both linguistic and perceptual information, (2) Mandarin incremental-theme predicates can be explained without special language-specific machinery, and (3) developmental differences arise not from immature semantic knowledge, but from children’s developing ability to integrate language, perception, and context during interpretation.
 
+### Publications
+- **Xu, Jingying**, & Cristina Schmitt. (in prep.). Mapping event representations to linguistic representations: Visual context and presentation order affect telicity judgments.
+- **Xu, Jingying**, & Cristina Schmitt. (under review). Development of telicity judgments in Mandarin: Visual context, determiner, and the role of *-le*
+- **Xu, Jingying**, & Cristina Schmitt. (to appear). Telicity in Context: Evidence from Mandarin-Speaking Children and Adults. Proceedings of the Linguistic Society of America (PLSA 2026).
+- **Xu, Jingying**, & Cristina Schmitt. (2025). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60). pp 429-440. 
+- **Xu, Jingying**, & Cristina Schmitt. (2025). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](https://www.lingref.com/cpp/wccfl/42/paper3846.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
+- **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: [https://doi.org/10.3765/sgccnn77](https://doi.org/10.3765/sgccnn77)
+
 ### Presentations
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Learning telicity in context: Developmental evidence from Mandarin children. Oral presentation at 2026 LSA Annual Meeting, New Orleans.
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Beyond truth conditions: Context modulates telicity interpretation. Oral presentation at 2026 LSA Annual Meeting, New Orleans.
@@ -55,14 +63,6 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 - **Xu, Jingying**, & Cristina Schmitt. (2023). Tracing the trajectory of the telicity calculus in Mandarin-speaking children. Poster presentation at CreteLing 2023 Conference, Rethymnon, Crete.
 - **Xu, Jingying**. (2022). Telicity in Mandarin preschoolers. Oral presentation at the Graduate Linguistics Expo at Michigan State (GLEAMS) 2022, East Lansing.
 
-### Publications
-- **Xu, Jingying**, & Cristina Schmitt. (in prep.). Mapping event representations to linguistic representations: Visual context and presentation order affect telicity judgments.
-- **Xu, Jingying**, & Cristina Schmitt. (under review). Development of telicity judgments in Mandarin: Visual context, determiner, and the role of *-le*
-- **Xu, Jingying**, & Cristina Schmitt. (to appear). Telicity in Context: Evidence from Mandarin-Speaking Children and Adults. Proceedings of the Linguistic Society of America (PLSA 2026).
-- **Xu, Jingying**, & Cristina Schmitt. (2025). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60). pp 429-440. 
-- **Xu, Jingying**, & Cristina Schmitt. (2025). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](https://www.lingref.com/cpp/wccfl/42/paper3846.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
-- **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: [https://doi.org/10.3765/sgccnn77](https://doi.org/10.3765/sgccnn77)
-
 <br>
 
 # Modeling Syntactic Parameter Setting
@@ -70,12 +70,12 @@ How do children identify the grammar of their language from limited input? Withi
 
 By directly comparing grammar selection and direct parameter setting, two approaches often treated separately, we show that each captures part of the learning problem. We then propose an input-driven, hierarchical **Clustering Approach** that combines their strengths: it updates only the parameters supported by the input and uses the order of acquisition to organize the hypothesis space more efficiently. The result is a more scalable model of parameter setting that resolves a key limitation of earlier hybrid accounts.
 
-### Presentations
-- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2023). The Clustering Approach: An Input-Driven Approach to Parameter Setting. [Poster](http://jingyingx.github.io/BUCLD_48_Poster_The_clustering_approach_Ke_Xu_Ding.pdf) presentation at the 48th Annual Boston University Conference on Language Development (BUCLD 48), Boston.
-
 ### Publications
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2025) Modeling the Learning of Parametric Variation: Implementing an input-driven hierarchical approach. Glossa: a journal of general linguistics 10(1). DOI: [https://doi.org/10.16995/glossa.18053](https://doi.org/10.16995/glossa.18053)
 - Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding (2024). [The Clustering Approach: An Input-Driven Approach to Parameter Setting](http://jingyingx.github.io/BUCLDProceeding_The_clustering_approach.pdf). Proceedings of the 48th Annual Boston University Conference on Language Development (BUCLD 48).
+
+### Presentations
+- Ke, Alan Hezao, **Jingying Xu**, & Lijun Ding. (2023). The Clustering Approach: An Input-Driven Approach to Parameter Setting. [Poster](http://jingyingx.github.io/BUCLD_48_Poster_The_clustering_approach_Ke_Xu_Ding.pdf) presentation at the 48th Annual Boston University Conference on Language Development (BUCLD 48), Boston.
 
 <br>
 
@@ -83,9 +83,6 @@ By directly comparing grammar selection and direct parameter setting, two approa
 How do children figure out who is doing the action when the subject is never spoken aloud? Control constructions raise exactly this puzzle. In sentences like *X wanted to eat or X asked Y* to open the door, listeners must identify the silent subject of the embedded clause, often analyzed as PRO, even though it has no overt pronunciation. This makes control a revealing test case for theories of language acquisition: does children’s early interpretation rely on superficial cues such as word order and proximity, or do they have access from early on to the hierarchical structure that determines reference? Mandarin offers a particularly strong testing ground for this question because it lacks overt morphological marking of control and freely allows null arguments, making the underlying structural cues especially important.
 
 This this project, we investigated Mandarin-learning infants’ comprehension of complement control using the Intermodal Preferential Looking Paradigm (IPLP). We tested minimal contrasts such as subject control, *X xiang chi-fan* 'X wanted to eat', versus object control with a null object, *X rang (Y) chi-fan* 'X allows (Y) to eat', as well as object control with an overt object, *X rang Y kai-men* 'X asked Y to open the door', versus the superficially similar non-control structure *X gei Y kai-men* 'X opened the door for Y'. The results showed that Mandarin-learning two-year-olds can identify the understood referent of the silent subject, distinguish subject control from object control, and separate true control structures from lookalike non-control sentences. The project therefore provides early evidence that young children track abstract structural dependencies, supporting continuity-based accounts of language acquisition.
-
-### Presentations
-- **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. [Poster](http://jingyingx.github.io/control.pdf) presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
 
 ### Publications
 - Yang, Xiaolu, **Xu, Jingying**, & Shi, Rushen. (2025). [Mandarin-speaking two-year-old children’ comprehension of complement control: Evidence from a preferential looking experiment](http://jingyingx.github.io/ijchl.24006.yan.pdf). International Journal of Chinese Linguistics (IJChL)12(2).
@@ -95,6 +92,10 @@ This this project, we investigated Mandarin-learning infants’ comprehension of
 ### Unpublished MA thesis
 - An Experiment Study of Mandarin-Speaking Children’s Early Comprehension of Complement Control.
 
+### Presentations
+- **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. [Poster](http://jingyingx.github.io/control.pdf) presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
+
+
 <br>
 
 # Mandarin Count-Mass Issue
@@ -102,25 +103,24 @@ Are Mandarin nouns inherently specified as count or mass, or does countability e
 
 We present experimental evidence that Mandarin nouns are underspecified for countability, and that size- and shape-denoting adjectives, much like classifiers, can supply an individuation function that makes counting possible. The findings therefore broaden the locus of individuation beyond the classifier system itself. Developmentally, children acquire this adjectival contribution only gradually, in parallel with the protracted acquisition of classifier-based individuation. Taken together, the results argue for an underspecified view of Mandarin nouns and show that learning to count in Mandarin involves mastering multiple linguistic devices for carving entities into countable units.
 
-### Presentations
-- **Xu, Jingying**, & Aijun Huang. (2016). Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition. Oral presentation at the 5th Syntax and Semantics in China (SSiC 2016), Shanghai.
-  
 ### Publications
 - Huang, Aijun, & **Jingying Xu**. (2021). [Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese)](http://jingyingx.github.io/adjectival_modification.pdf). Linguistic Research.
 
+### Presentations
+- **Xu, Jingying**, & Aijun Huang. (2016). Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition. Oral presentation at the 5th Syntax and Semantics in China (SSiC 2016), Shanghai.
+
 ### Unpublished BA thesis
-- Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition.
+- Adjectival Modification and Countability in Mandarin Chinese: An L1 Acquisition Study.
 
 <br>
 
 #  Non-Interrogative Use of Mandarin Negative Wh-Pronoun Construction *mei...shenme* 'not...what'
 In Mandarin, the *mei…shenme* (‘not…what’) construction supports a categorical **None** reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu didn’t eat anything at all.’) and a scalar Insignificance reading (e.g., *Xiaozhu mei chi shenme dongxi.* ‘Xiaozhu ate very little.’). We find the L2 pattern mirrors L1: **None** before **Insignificance**, but on a more gradual curve. We consider linguistic and non-linguistic factors (e.g., input frequency, task and pragmatics factors) to account for similarities and differences across L1 and L2 acquisition.
 
+### Publications
+- Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (2026). Navigating Mandarin Subtleties: Korean Speakers' Acquisition of Mandarin's Negative wh-pronoun Construction. Journal of Psycholinguistic. Research 55(2): 18.
+
 ### Presentations
 - Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (2021). The Acquisition of Chinese Negative Wh-Pronoun Constructions by Korean Speakers. Oral presentation presented at the 9th International Conference on Formal Linguistics (ICFL 9), Shanghai.
 - **Xu, Jingying**, & Aijun Huang. (2015). Development of Pragmatic Knowledge in L2 Learners of Mandarin Chinese. Oral presentation at the 4th Syntax and Semantics in China (SSiC 2015), Xi’an.
-
-### Publications
-- Huang, Aijun, Qian Wang, **Jingying Xu**, Hui Chang, Li Zeng & Nakayama Mineharu. (to appear). Navigating Mandarin Subtleties: Korean Speakers' Acquisition of Mandarin's Negative wh-pronoun Construction. Journal of Psycholinguistic Research.
-
 
