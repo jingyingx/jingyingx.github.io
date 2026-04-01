@@ -21,7 +21,7 @@ author:
   }
 
   .page__content {
-    font-size: 0.8rem !important;
+    font-size: 0.7rem !important;
   }
 }
 </style>
