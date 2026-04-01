@@ -17,6 +17,9 @@ author:
     box-shadow: none !important;
     max-width: none !important;
   }
+   .page__content {
+    font-size: 0.7rem !important;
+  }
 }
 </style>
 
