@@ -32,7 +32,7 @@ Hello! I'm a PhD candidate in the [Linguistics Program](https://lilac.msu.edu/li
 I'm part of the [MSU Language Acquisition Lab](https://www.msuacquisition.org/index.html), Semantics-Pragmatics Lab, and [Minimalism, Learning and 
 Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab). I'm also doing the [Interdepartmental Graduate Specialization in Cognitive Science](https://cogsci.msu.edu/graduate.html), with a focus on NLP. 
 
-You can find a current copy of my CV [here](/jingyingxu-cv_sept_2025.pdf).
+You can find a current copy of my CV [here](/Jingying_Xu_cv_March_2026.pdf).
 
 Outside of linguistics, I enjoy handcrafting, playing the piano, and exploring fashion and design.
 
