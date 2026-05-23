@@ -46,7 +46,7 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 ### Publications
 - **Xu, Jingying**, & Cristina Schmitt. (in prep.). Mapping event representations to linguistic representations: Visual context and presentation order affect telicity judgments.
 - **Xu, Jingying**, & Cristina Schmitt. (under review). Development of telicity judgments in Mandarin: Visual context, determiner, and the role of *-le*
-- **Xu, Jingying**, & Cristina Schmitt. (to appear). [Telicity in Context: Evidence from Mandarin-Speaking Children and Adults](http://jingyingx.github.io/PLSA_Xu.pdf). Proceedings of the Linguistic Society of America (PLSA 2026).
+- **Xu, Jingying**, & Cristina Schmitt. (2026). [Telicity in Context: Evidence from Mandarin-Speaking Children and Adults](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6115). Proceedings of the Linguistic Society of America (PLSA 2026).
 - **Xu, Jingying**, & Cristina Schmitt. (2025). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60). pp 429-440. 
 - **Xu, Jingying**, & Cristina Schmitt. (2025). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](https://www.lingref.com/cpp/wccfl/42/paper3846.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: [https://doi.org/10.3765/sgccnn77](https://doi.org/10.3765/sgccnn77)
