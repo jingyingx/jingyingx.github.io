@@ -51,6 +51,9 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 - **Xu, Jingying**, & Cristina Schmitt. (2025). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](https://www.lingref.com/cpp/wccfl/42/paper3846.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
 - **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: [https://doi.org/10.3765/sgccnn77](https://doi.org/10.3765/sgccnn77)
 
+### Unpublished PhD dissertation
+Telicity Judgments in English and Mandarin: Crosslinguistic and Developmental Evidence
+
 ### Presentations
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Mapping event representations to linguistic representations: Mandarin children's and adults' culmination judgements. Oral presentation at the 42nd Portuguese Linguistics Association Annual Meeting (ENAPL42), Faro, Portugal
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Learning telicity in context: Developmental evidence from Mandarin children. Oral presentation at 2026 LSA Annual Meeting, New Orleans.
@@ -63,6 +66,7 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 - **Xu, Jingying** (2023). How can you eat three cookies without ever finishing them?  Oral presentation at Careers, Alumni and Linguistics at Michigan State (CALMS) 2023, East Lansing.
 - **Xu, Jingying**, & Cristina Schmitt. (2023). Tracing the trajectory of the telicity calculus in Mandarin-speaking children. Poster presentation at CreteLing 2023 Conference, Rethymnon, Crete.
 - **Xu, Jingying**. (2022). Telicity in Mandarin preschoolers. Oral presentation at the Graduate Linguistics Expo at Michigan State (GLEAMS) 2022, East Lansing.
+
 
 <br>
 
@@ -107,11 +111,12 @@ We present experimental evidence that Mandarin nouns are underspecified for coun
 ### Publications
 - Huang, Aijun, & **Jingying Xu**. (2021). [Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese)](http://jingyingx.github.io/adjectival_modification.pdf). Linguistic Research.
 
+### Unpublished BA thesis
+- Adjectival Modification and Countability in Mandarin Chinese: An L1 Acquisition Study.
+
 ### Presentations
 - **Xu, Jingying**, & Aijun Huang. (2016). Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition. Oral presentation at the 5th Syntax and Semantics in China (SSiC 2016), Shanghai.
 
-### Unpublished BA thesis
-- Adjectival Modification and Countability in Mandarin Chinese: An L1 Acquisition Study.
 
 <br>
 
