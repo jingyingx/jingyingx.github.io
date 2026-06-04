@@ -52,6 +52,7 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 - **Xu, Jingying**, & Cristina Schmitt. (2025). Pragmatic accommodation in judging event culmination. Proceedings of the 34th Semantics and Linguistic Theory (SALT 34). DOI: [https://doi.org/10.3765/sgccnn77](https://doi.org/10.3765/sgccnn77)
 
 ### Presentations
+- **Xu, Jingying**, & Cristina Schmitt. (2026). Mapping event representations to linguistic representations: Mandarin children's and adults' culmination judgements. Oral presentation at the 42nd Portuguese Linguistics Association Annual Meeting (ENAPL42), Faro, Portugal
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Learning telicity in context: Developmental evidence from Mandarin children. Oral presentation at 2026 LSA Annual Meeting, New Orleans.
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Beyond truth conditions: Context modulates telicity interpretation. Oral presentation at 2026 LSA Annual Meeting, New Orleans.
 - **Xu, Jingying**, & Cristina Schmitt. (2024). Children do not have different verb representations from adults: Non-culminating incremental theme predicates in Mandarin-speaking children. Poster presentation at the 16th Generative Approaches to Language Acquisition (GALA 16). The NOVA University of Lisbon, Lisbon.
