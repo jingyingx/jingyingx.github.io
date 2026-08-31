@@ -26,7 +26,7 @@ classes: wide
 </style>
 
 
-Hello! I recently received my PhD in Linguistics at Michigan State University (MSU). My research focuses on syntax, semantics and first language acquisition of the two areas. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). Alan Munn, Brian Buccola, and Alan Hezao Ke are also on my committee. 
+Hello! I recently received my PhD in Linguistics and Graduate Specialization in Cognitive Science at Michigan State University (MSU). My research focuses on syntax, semantics and first language acquisition of the two areas. I use experimental and computational approaches to study how children acquire their first language. My advisor is [Cristina Schmitt](https://people.cal.msu.edu/schmit12/). Alan Munn, Brian Buccola, and Alan Hezao Ke are also on my committee. 
 
 <p align="center">
   <img src="/assets/img/defense.png" alt="Jingying Xu with dissertation committee after PhD defense" width="500">
@@ -34,7 +34,7 @@ Hello! I recently received my PhD in Linguistics at Michigan State University (M
 <p align="center"><em>Celebrating my PhD defense with my committee.</em></p>
 
 I'm part of the [MSU Language Acquisition Lab](https://www.msuacquisition.org/index.html), Semantics-Pragmatics Lab, and [Minimalism, Learning and 
-Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab). I'm also doing the [Interdepartmental Graduate Specialization in Cognitive Science](https://cogsci.msu.edu/graduate.html), with a focus on Natural Language Processing. 
+Computational Psycholinguistics Lab](https://sites.google.com/view/mlclab).
 
 You can find a current copy of my CV [here](/Xu_CV_mar_2026.pdf).
 
