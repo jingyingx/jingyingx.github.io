@@ -45,7 +45,7 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 
 ### Publications
 - **Xu, Jingying**, & Cristina Schmitt. (in prep.). Mapping event representations to linguistic representations: Visual context and presentation order affect telicity judgments.
-- **Xu, Jingying**, & Cristina Schmitt. (under review). Development of telicity judgments in Mandarin: Visual context, determiner, and the role of *-le*
+- **Xu, Jingying**, & Cristina Schmitt. (in revision). Development of telicity judgments in Mandarin: Visual context, determiner, and the role of *-le*
 - **Xu, Jingying**, & Cristina Schmitt. (2026). [Telicity in Context: Evidence from Mandarin-Speaking Children and Adults](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6115). Proceedings of the Linguistic Society of America (PLSA 2026).
 - **Xu, Jingying**, & Cristina Schmitt. (2025). [Grammatical versus pragmatic accounts for event non-culmination in Mandarin: An experimental study](http://jingyingx.github.io/CLS_xu_schmitt.pdf). Proceedings of the 60th Meeting of the Chicago Linguistic Society (CLS 60). pp 429-440. 
 - **Xu, Jingying**, & Cristina Schmitt. (2025). [Demonstratives but not verbs cause non-culmination in Mandarin incremental-theme predicates: Evidence from children and adults](https://www.lingref.com/cpp/wccfl/42/paper3846.pdf). Proceedings of the 42nd West Coast Conference on Formal Linguistics (WCCFL 42).
@@ -55,6 +55,7 @@ Using truth-value judgment experiments with English-speaking adults and Mandarin
 Telicity Judgments in English and Mandarin: Crosslinguistic and Developmental Evidence
 
 ### Presentations
+- **Xu, Jingying**, & Cristina Schmitt. (2026). Telicity judgments as a window onto the mapping between language and events. Oral presentation at Ontology As Structured by the Interfaces with Semantics 6 (OASIS 6), Lisbon, Portugal
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Mapping event representations to linguistic representations: Mandarin children's and adults' culmination judgements. Oral presentation at the 42nd Portuguese Linguistics Association Annual Meeting (ENAPL42), Faro, Portugal
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Learning telicity in context: Developmental evidence from Mandarin children. Oral presentation at 2026 LSA Annual Meeting, New Orleans.
 - **Xu, Jingying**, & Cristina Schmitt. (2026). Beyond truth conditions: Context modulates telicity interpretation. Oral presentation at 2026 LSA Annual Meeting, New Orleans.
