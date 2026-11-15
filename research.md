@@ -95,9 +95,6 @@ This this project, we investigated Mandarin-learning infants’ comprehension of
 
 - **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2021). [Complement control in early child grammar: A study of Mandarin-speaking two-year-olds’ comprehension](https://www.lingref.com/bucld/45/BUCLD45-58.pdf). In Daniell Dionne & Lee-Ann Vidal Covas (Eds.), Proceedings of the 45th Annual Boston University Conference on Language Development (BUCLD 45). Somerville, MA: Cascadilla Press.
 
-### Unpublished MA thesis
-- An Experiment Study of Mandarin-Speaking Children’s Early Comprehension of Complement Control.
-
 ### Presentations
 - **Xu, Jingying**, Xiaolu Yang, & Rushen Shi. (2020). Complement Control in Early Child Mandarin: Evidence from a Preferential Looking Experiment. [Poster](http://jingyingx.github.io/control.pdf) presentation at the 45th Annual Boston University Conference on Language Development (BUCLD 45), Boston.
 
@@ -111,9 +108,6 @@ We present experimental evidence that Mandarin nouns are underspecified for coun
 
 ### Publications
 - Huang, Aijun, & **Jingying Xu**. (2021). [Hanyu xingrongci xiushi he hanyu keshuxing wenti tanjiu: Yixiang ertong yuyan xide yanjiu (Adjectival modification and countability in Mandarin Chinese: An L1 acquisition study) (in Chinese)](http://jingyingx.github.io/adjectival_modification.pdf). Linguistic Research.
-
-### Unpublished BA thesis
-- Adjectival Modification and Countability in Mandarin Chinese: An L1 Acquisition Study.
 
 ### Presentations
 - **Xu, Jingying**, & Aijun Huang. (2016). Adjectival Modification and Countability in Mandarin Chinese: A View from First Language Acquisition. Oral presentation at the 5th Syntax and Semantics in China (SSiC 2016), Shanghai.
