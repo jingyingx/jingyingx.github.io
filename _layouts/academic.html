@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="icon" href="/assets/img/profile.jpg">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.browser_title | default: page.title | escape }}</title>
+<meta name="description" content="{{ page.description | escape }}">
+<link rel="stylesheet" href="/assets/css/academic.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="header-inner"><a class="wordmark" href="/">Jingying Xu</a><nav aria-label="Primary navigation"><a href="/">Home</a><a href="/research/">Research</a><a href="/publications/">Publications</a><a href="/teaching/">Teaching &amp; Mentoring</a><a href="/Xu_CV_mar_2026.pdf">CV <span class="filetype">PDF</span></a></nav></div></header>
+<div class="site-shell"><aside class="profile" aria-label="About Jingying Xu"><a href="/" aria-label="Jingying Xu homepage"><img class="portrait" src="/assets/img/profile.jpg" alt="Portrait of Jingying Xu" width="180" height="230"></a><div class="profile-info"><p class="profile-name" lang="zh">徐婧颖</p><p class="pronunciation">Xú, Jìngyǐng<br><span>[ɕy˧˥ t͡ɕiŋ˥˩ iŋ˨˩˦]</span></p><p class="profile-field">Language acquisition<br>Syntax &amp; semantics<br>Cognitive science</p><div class="profile-links"><a href="mailto:xujing21@msu.edu">xujing21@msu.edu</a><a href="/Xu_CV_mar_2026.pdf">Academic CV (PDF)</a><a href="https://www.linkedin.com/in/jing-ying-xu/">LinkedIn ↗</a></div></div></aside><main id="main" tabindex="-1"><h1>{{ page.title }}</h1>{{ content }}</main></div>
+<footer><div><span>Jingying Xu · Linguistics</span><a href="mailto:xujing21@msu.edu">Get in touch →</a></div></footer>
+<script>document.querySelectorAll('.site-header nav a').forEach(function(a){if(a.getAttribute('href')===location.pathname){a.setAttribute('aria-current','page')}});if(location.hash){var target=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(target && target.tagName==='DETAILS'){target.open=true;target.scrollIntoView()}}window.addEventListener('hashchange',function(){var target=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(target && target.tagName==='DETAILS'){target.open=true;target.scrollIntoView()}});</script>
+</body></html>

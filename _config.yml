@@ -27,3 +27,8 @@ author:
   
   
 
+
+exclude:
+  - scripts
+  - PREVIEW.md
+  - README.md
