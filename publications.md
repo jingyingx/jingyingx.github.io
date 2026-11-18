@@ -21,7 +21,7 @@ description: "Published work, manuscripts in progress, and dissertation by Jingy
 </ul></section><section id="manuscripts"><h2>Manuscripts in progress</h2><ul>
 <li><strong>Xu, Jingying</strong>, &amp; Cristina Schmitt. (in prep.). Mapping event representations to linguistic representations: Visual context and presentation order affect telicity judgments.</li>
 <li><strong>Xu, Jingying</strong>, &amp; Cristina Schmitt. (in revision). Development of telicity judgments in Mandarin: Visual context, determiner, and the role of <em>-le</em></li>
-</p></section><section id="by-project"><h2>Browse by project</h2><details id="aspect-and-telicity"><summary>Aspect & telicity</summary><ul>
+<section id="by-project"><h2>Browse by project</h2><details id="aspect-and-telicity"><summary>Aspect & telicity</summary><ul>
 <li><strong>Xu, Jingying</strong>, &amp; Cristina Schmitt. (in prep.). Mapping event representations to linguistic representations: Visual context and presentation order affect telicity judgments.</li>
 <li><strong>Xu, Jingying</strong>, &amp; Cristina Schmitt. (in revision). Development of telicity judgments in Mandarin: Visual context, determiner, and the role of <em>-le</em></li>
 <li><strong>Xu, Jingying</strong>, &amp; Cristina Schmitt. (2026). <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6115">Telicity in Context: Evidence from Mandarin-Speaking Children and Adults</a>. Proceedings of the Linguistic Society of America (PLSA 2026).</li>
